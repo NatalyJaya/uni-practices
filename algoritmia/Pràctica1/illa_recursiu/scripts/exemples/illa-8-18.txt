@@ -1,0 +1,8 @@
+Q A R
+R Q P
+L Q T
+A Q T
+B L P
+J A T
+T L J
+P B A

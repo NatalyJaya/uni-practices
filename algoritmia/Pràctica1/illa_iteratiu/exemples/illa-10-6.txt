@@ -1,0 +1,10 @@
+W P F
+E W B
+U W F
+P E H
+B E A
+V P B
+T U E
+A V W
+F V A
+H E W

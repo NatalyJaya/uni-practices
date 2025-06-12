@@ -1,0 +1,4 @@
+F R P
+P F R
+L F P
+R F P

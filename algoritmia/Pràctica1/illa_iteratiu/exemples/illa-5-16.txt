@@ -1,0 +1,5 @@
+T X F
+X T I
+Z T F
+I T X
+F T Z

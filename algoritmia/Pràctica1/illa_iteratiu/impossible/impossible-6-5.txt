@@ -1,0 +1,12 @@
+D R F
+R A B
+A U Z
+U C O
+C Y X
+Y D Q
+F R D
+B A R
+Z U A
+O C U
+X Y C
+Q D Y

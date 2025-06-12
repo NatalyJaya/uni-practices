@@ -1,0 +1,5 @@
+S T X
+T S U
+P T U
+X S P
+U X S

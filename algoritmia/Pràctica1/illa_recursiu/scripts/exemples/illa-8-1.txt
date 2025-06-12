@@ -1,0 +1,8 @@
+C X J
+J C X
+X C J
+W J C
+N C J
+D W N
+A N D
+E D X

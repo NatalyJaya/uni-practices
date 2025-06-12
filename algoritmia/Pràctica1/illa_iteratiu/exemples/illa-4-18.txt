@@ -1,0 +1,4 @@
+S Z C
+Z S W
+C Z S
+W C Z

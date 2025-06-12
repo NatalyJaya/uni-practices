@@ -1,0 +1,6 @@
+N P C
+P N U
+U N A
+C N A
+A P C
+B P A

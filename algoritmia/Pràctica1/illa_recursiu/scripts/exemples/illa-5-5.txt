@@ -1,0 +1,5 @@
+T G H
+G T Q
+H T Z
+Z T H
+Q Z H

@@ -1,0 +1,8 @@
+X U T
+Y X T
+U Y T
+T X Y
+B T U
+J U T
+H B Y
+A U B

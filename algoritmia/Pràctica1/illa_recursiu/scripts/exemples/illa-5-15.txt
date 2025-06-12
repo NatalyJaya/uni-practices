@@ -1,0 +1,5 @@
+Z L Y
+L Z Y
+X Z Y
+Y X L
+R Y L

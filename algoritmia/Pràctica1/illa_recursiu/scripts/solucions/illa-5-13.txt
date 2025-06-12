@@ -1,0 +1,12 @@
+L T F Y O
+L T F O Y
+L T O F Y
+L F Y T O
+L F Y O T
+L F T Y O
+L F T O Y
+L F O Y T
+L F O T Y
+L O T F Y
+L O F Y T
+L O F T Y

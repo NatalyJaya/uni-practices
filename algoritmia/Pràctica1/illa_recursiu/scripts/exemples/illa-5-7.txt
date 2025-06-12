@@ -1,0 +1,5 @@
+D X E
+X D F
+F D U
+U D X
+E X U

@@ -1,0 +1,13 @@
+E O H P Z
+E O H Z P
+H P O Z E
+H P Z O E
+H Z P O E
+P H O Z E
+P H Z O E
+P O E H Z
+P O H Z E
+P O Z E H
+P Z O E H
+Z E O H P
+Z P O E H

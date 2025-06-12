@@ -1,0 +1,9 @@
+C I X
+X C S
+S X G
+I S X
+Y S I
+M Y C
+G C X
+U Y S
+K M X

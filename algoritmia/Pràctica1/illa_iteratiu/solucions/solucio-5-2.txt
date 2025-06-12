@@ -1,0 +1,12 @@
+I C D V A
+I C D A V
+I C V A D
+I C A D V
+C D V I A
+C D V A I
+C D A V I
+C V I A D
+C V A I D
+C V A D I
+C A D V I
+V I C A D

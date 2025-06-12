@@ -1,0 +1,5 @@
+Y R L
+K Y R
+L K R
+R L Y
+Q L R

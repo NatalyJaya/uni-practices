@@ -1,0 +1,12 @@
+T Z I F X
+T Z F X I
+T Z F I X
+T I Z F X
+T I F X Z
+T I F Z X
+T F X Z I
+T F X I Z
+T F Z X I
+T F Z I X
+T F I X Z
+T F I Z X

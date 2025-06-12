@@ -1,0 +1,9 @@
+B Q T U Z
+B T U Z Q
+B T U Q Z
+B T Q U Z
+Z B Q T U
+Z B T U Q
+Z B T Q U
+Z T B U Q
+Z T B Q U

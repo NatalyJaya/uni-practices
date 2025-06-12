@@ -1,0 +1,6 @@
+P H N
+H B G
+B P F
+N H P
+G B H
+F P B

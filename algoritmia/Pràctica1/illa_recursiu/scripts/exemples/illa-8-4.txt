@@ -1,0 +1,8 @@
+G F Y
+F G O
+U G Z
+K G Y
+O F G
+Z K Y
+Y G X
+X O F

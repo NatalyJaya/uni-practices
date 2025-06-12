@@ -1,0 +1,8 @@
+H B M
+X H C
+Q H K
+B X Y
+K X H
+C K H
+M X B
+Y C M

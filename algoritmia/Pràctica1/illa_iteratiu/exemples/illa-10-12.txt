@@ -1,0 +1,10 @@
+S N W
+N S C
+O N C
+Z S O
+D S R
+C Z U
+W C T
+R D T
+T N O
+U Z N

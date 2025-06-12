@@ -1,0 +1,7 @@
+I J N
+J I N
+X I J
+U I X
+N X M
+G I X
+M U I

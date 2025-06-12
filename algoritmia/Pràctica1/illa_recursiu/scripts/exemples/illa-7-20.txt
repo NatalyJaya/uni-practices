@@ -1,0 +1,7 @@
+K G J
+G K J
+H G V
+J H G
+V G J
+W H J
+Y G K

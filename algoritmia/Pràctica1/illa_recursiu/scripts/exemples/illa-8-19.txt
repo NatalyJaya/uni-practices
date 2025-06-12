@@ -1,0 +1,8 @@
+C Z V
+Z C A
+A C T
+T C A
+F Z T
+S A L
+V F C
+L A F

@@ -1,0 +1,4 @@
+R F X Y
+Y F R X
+Y F X R
+X Y F R

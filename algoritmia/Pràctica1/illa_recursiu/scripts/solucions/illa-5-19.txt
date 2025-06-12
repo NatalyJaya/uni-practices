@@ -1,0 +1,7 @@
+S R U M X
+S U R M X
+S U M X R
+X R U M S
+X R M S U
+X R M U S
+X U R M S

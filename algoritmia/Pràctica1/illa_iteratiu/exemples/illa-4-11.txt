@@ -1,0 +1,4 @@
+B Q N
+N B X
+Q N X
+X N Q

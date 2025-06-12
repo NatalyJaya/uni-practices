@@ -1,0 +1,9 @@
+K L N C E
+K N L C E
+K N C L E
+K N C E L
+L E K N C
+C N L E K
+E K L N C
+E K N L C
+E K N C L

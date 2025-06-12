@@ -1,0 +1,5 @@
+K C N
+L K E
+C K N
+E C K
+N K L

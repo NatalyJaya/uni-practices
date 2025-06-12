@@ -1,0 +1,10 @@
+F Q M
+S F Q
+W F K
+K S W
+Q W K
+R Q P
+M Q K
+E Q K
+P Q F
+O S K

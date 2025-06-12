@@ -1,0 +1,7 @@
+D V F
+R D L
+U R X
+L D X
+X D V
+V R X
+F V R

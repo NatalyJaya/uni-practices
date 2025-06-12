@@ -1,0 +1,4 @@
+V P B
+N V B
+P V B
+B V P

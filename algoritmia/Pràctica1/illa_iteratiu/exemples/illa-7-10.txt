@@ -1,0 +1,7 @@
+B X O
+X B K
+A X E
+K X B
+O X A
+E O A
+Z K X

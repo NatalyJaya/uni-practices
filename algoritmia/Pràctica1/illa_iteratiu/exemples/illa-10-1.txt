@@ -1,0 +1,10 @@
+H C I
+V H F
+F H T
+N H I
+M F T
+C H A
+T H N
+I H N
+A N X
+X N M

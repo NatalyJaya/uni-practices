@@ -1,0 +1,8 @@
+G X R
+R G X
+K G U
+T R U
+U G S
+W K G
+X W U
+S T R

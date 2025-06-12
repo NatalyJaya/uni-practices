@@ -1,0 +1,9 @@
+L R D
+Q L W
+X Q W
+W Q L
+R X I
+C R D
+I X R
+O R X
+D R O

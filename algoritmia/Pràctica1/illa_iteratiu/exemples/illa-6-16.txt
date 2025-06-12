@@ -1,0 +1,6 @@
+D N E
+E D S
+S E D
+N D S
+M N D
+O S E

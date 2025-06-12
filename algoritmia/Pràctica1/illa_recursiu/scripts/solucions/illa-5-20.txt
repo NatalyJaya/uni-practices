@@ -1,0 +1,12 @@
+U E D J P
+U E D P J
+U E J D P
+U D J P E
+E D J P U
+E D P U J
+E D P J U
+E J D P U
+E P J D U
+D J P U E
+P U E J D
+P E J D U

@@ -1,0 +1,8 @@
+F M Y
+N F B
+U N M
+B U F
+Y B F
+M U O
+G F Y
+O N F

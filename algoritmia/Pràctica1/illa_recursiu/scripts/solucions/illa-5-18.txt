@@ -1,0 +1,16 @@
+S P X U T
+S X T P U
+S X T U P
+S X P U T
+S X U T P
+T P U S X
+T X P U S
+T X U P S
+T U S P X
+T U S X P
+T U P S X
+P S X U T
+P U S X T
+X T P U S
+X T U P S
+U S X T P

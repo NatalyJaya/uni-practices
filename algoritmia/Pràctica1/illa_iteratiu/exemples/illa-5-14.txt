@@ -1,0 +1,5 @@
+C N O
+H C O
+N H C
+Z C N
+O H Z

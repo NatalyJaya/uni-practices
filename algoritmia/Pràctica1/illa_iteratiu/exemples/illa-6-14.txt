@@ -1,0 +1,6 @@
+G Z S
+H G S
+B G H
+Z B G
+S B G
+N B S

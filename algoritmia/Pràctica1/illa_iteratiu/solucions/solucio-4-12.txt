@@ -1,0 +1,4 @@
+L C D Y
+Y C D L
+Y D L C
+C L D Y

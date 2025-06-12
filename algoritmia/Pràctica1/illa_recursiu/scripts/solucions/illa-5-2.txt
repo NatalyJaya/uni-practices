@@ -1,0 +1,12 @@
+X A D I M
+X A D M I
+X A I D M
+X A I M D
+X A M D I
+X A M I D
+X D A I M
+X D A M I
+X D M A I
+X M A D I
+X M A I D
+X M D A I

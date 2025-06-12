@@ -1,0 +1,12 @@
+P W M H D
+P W H M D
+P W H D M
+P M W H D
+P M H W D
+P M H D W
+P H W M D
+P H W D M
+P H M W D
+P H M D W
+P H D W M
+P H D M W

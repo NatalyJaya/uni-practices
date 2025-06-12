@@ -1,0 +1,10 @@
+X T F
+T R S
+R L Z
+L K Q
+K X O
+F T X
+S R T
+Z L R
+Q K L
+O X K

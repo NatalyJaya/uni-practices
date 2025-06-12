@@ -1,0 +1,9 @@
+V X B
+B V X
+L V T
+T V X
+X B D
+D T G
+I X B
+A V T
+G V I

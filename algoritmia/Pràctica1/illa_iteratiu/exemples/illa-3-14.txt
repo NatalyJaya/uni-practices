@@ -1,0 +1,3 @@
+T Z P
+Z T P
+P T Z

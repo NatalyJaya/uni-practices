@@ -1,0 +1,11 @@
+M Z S N Q
+M S Z N Q
+Z Q S N M
+Z Q N M S
+Z Q N S M
+Q Z S N M
+Q Z N M S
+Q Z N S M
+Q S Z N M
+Q N M S Z
+Q N S M Z

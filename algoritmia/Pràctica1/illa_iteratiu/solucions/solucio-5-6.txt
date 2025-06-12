@@ -1,0 +1,8 @@
+X K D S V
+X K D V S
+D S K X V
+D S K V X
+D S V K X
+D V S K X
+S K X D V
+V S K X D

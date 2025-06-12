@@ -1,0 +1,5 @@
+X B J
+R X A
+B X A
+J X B
+A B J

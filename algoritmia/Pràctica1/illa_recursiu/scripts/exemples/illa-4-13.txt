@@ -1,0 +1,4 @@
+S E H
+H S E
+E S W
+W S E

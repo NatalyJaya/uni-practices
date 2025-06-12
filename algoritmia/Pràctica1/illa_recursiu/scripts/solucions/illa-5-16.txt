@@ -1,0 +1,12 @@
+J D S F X
+J D F S X
+J S D F X
+J S F D X
+J S F X D
+J F D S X
+J F S D X
+J F S X D
+J F X D S
+X J D S F
+X J D F S
+X J F D S

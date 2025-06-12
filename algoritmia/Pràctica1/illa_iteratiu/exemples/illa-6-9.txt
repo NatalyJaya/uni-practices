@@ -1,0 +1,6 @@
+X V D
+V X S
+D X V
+S V Q
+R V D
+Q X S

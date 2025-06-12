@@ -1,0 +1,5 @@
+I T F
+V I T
+F V I
+T V F
+N V T

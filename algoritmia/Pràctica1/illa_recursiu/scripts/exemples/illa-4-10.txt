@@ -1,0 +1,4 @@
+C P G
+G C Z
+Z G C
+P C Z

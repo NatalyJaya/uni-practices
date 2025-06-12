@@ -1,0 +1,9 @@
+M N J
+T M W
+W T E
+N W E
+G N W
+E N J
+J E T
+K N G
+S T E

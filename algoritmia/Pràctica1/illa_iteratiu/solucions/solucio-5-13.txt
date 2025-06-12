@@ -1,0 +1,10 @@
+U X H B Q
+U X B Q H
+U B X Q H
+U B Q X H
+H X B U Q
+H X B Q U
+B U X Q H
+B U Q X H
+B Q U X H
+Q U X H B

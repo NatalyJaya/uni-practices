@@ -1,0 +1,4 @@
+D F V
+F D V
+Z D V
+V F D

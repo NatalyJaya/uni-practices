@@ -1,0 +1,12 @@
+F M W U J
+F M W J U
+F M U W J
+F W M U J
+F W M J U
+F W J M U
+F U W M J
+F U W J M
+M U F W J
+U F W M J
+U F W J M
+J W M U F

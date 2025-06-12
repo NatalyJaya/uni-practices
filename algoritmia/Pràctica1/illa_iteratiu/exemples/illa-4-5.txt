@@ -1,0 +1,4 @@
+D X T
+I D T
+T I D
+X I T

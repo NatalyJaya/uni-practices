@@ -1,0 +1,6 @@
+G D T
+T G C
+C G T
+P G V
+D T V
+V C T

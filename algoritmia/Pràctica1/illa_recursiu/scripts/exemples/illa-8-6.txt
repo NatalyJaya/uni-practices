@@ -1,0 +1,8 @@
+L K X
+K L J
+J L X
+W J X
+X K G
+M X H
+G K X
+H X G

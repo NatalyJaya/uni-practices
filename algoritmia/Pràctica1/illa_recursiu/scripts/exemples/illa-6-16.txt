@@ -1,0 +1,6 @@
+Z F N
+O Z P
+N O Z
+C O Z
+P O C
+F Z C

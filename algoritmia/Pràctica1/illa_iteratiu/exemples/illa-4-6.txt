@@ -1,0 +1,4 @@
+N F Q
+Q N L
+F N L
+L Q F

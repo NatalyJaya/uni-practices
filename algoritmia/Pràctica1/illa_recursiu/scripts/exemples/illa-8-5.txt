@@ -1,0 +1,8 @@
+H X P
+X H D
+Z X A
+F H Z
+D Z X
+Y X D
+P Z A
+A H X

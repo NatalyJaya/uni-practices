@@ -1,0 +1,7 @@
+I X H
+S I H
+H S X
+A H S
+D I X
+Q S X
+X I Q

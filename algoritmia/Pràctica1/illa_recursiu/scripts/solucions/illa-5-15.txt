@@ -1,0 +1,12 @@
+Z X Y L R
+Z X Y R L
+Z Y L X R
+Z Y L R X
+Z Y R L X
+L X Y Z R
+L X Y R Z
+X L Y Z R
+X L Y R Z
+X R L Y Z
+R L X Y Z
+R X L Y Z

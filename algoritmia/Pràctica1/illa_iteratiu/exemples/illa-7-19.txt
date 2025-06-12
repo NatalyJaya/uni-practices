@@ -1,0 +1,7 @@
+Q R N
+M Q Z
+R Q J
+A R Z
+J R Z
+Z M N
+N R Z

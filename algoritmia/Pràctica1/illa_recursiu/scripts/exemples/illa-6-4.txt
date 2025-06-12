@@ -1,0 +1,6 @@
+X I U
+U X J
+I U X
+M U X
+J M X
+C U M

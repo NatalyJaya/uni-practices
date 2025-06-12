@@ -1,0 +1,5 @@
+L G N
+M L N
+N M G
+D N M
+G L D

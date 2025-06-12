@@ -1,0 +1,12 @@
+O S A U E
+O S A E U
+O S E A U
+O A S U E
+O A S E U
+O A U S E
+O A U E S
+O A E S U
+O A E U S
+O E S A U
+O E A S U
+O E A U S

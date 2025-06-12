@@ -1,0 +1,10 @@
+G E F
+E Y Z
+Y M X
+M I H
+I G K
+F E G
+Z Y E
+X M Y
+H I M
+K G I

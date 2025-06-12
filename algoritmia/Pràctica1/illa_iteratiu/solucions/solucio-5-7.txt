@@ -1,0 +1,15 @@
+G F J U I
+G F U J I
+G F U I J
+G J F U I
+F J U I G
+F U I G J
+J F U I G
+J U F I G
+J U I G F
+U F I G J
+U I G F J
+U I G J F
+I G F J U
+I G F U J
+I G J F U

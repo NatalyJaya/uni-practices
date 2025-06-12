@@ -1,0 +1,4 @@
+A O X
+G A X
+O G A
+X A G

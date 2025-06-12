@@ -1,0 +1,3 @@
+R N C
+C R N
+N R C

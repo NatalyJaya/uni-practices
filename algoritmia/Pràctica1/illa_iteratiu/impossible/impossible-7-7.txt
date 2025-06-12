@@ -1,0 +1,14 @@
+H W M
+W C N
+C D I
+D B L
+B E G
+E Y A
+Y H R
+M W H
+N C W
+I D C
+L B D
+G E B
+A Y E
+R H Y

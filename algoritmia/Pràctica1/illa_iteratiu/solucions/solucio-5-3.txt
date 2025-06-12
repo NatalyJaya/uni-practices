@@ -1,0 +1,16 @@
+Z Q J C W
+Q J W C Z
+Q J C W Z
+Q W C Z J
+Q C W Z J
+J Z Q C W
+J Z C Q W
+J Z C W Q
+J W Z Q C
+J W Z C Q
+J W C Z Q
+J C W Z Q
+W Z Q J C
+W Q C Z J
+W C Z Q J
+C W Z Q J

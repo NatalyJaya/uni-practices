@@ -1,0 +1,4 @@
+S D N
+D S G
+G S D
+N G S

@@ -1,0 +1,9 @@
+X L V
+V X L
+E V U
+A X Y
+I X L
+L A E
+G E Y
+Y X E
+U G A

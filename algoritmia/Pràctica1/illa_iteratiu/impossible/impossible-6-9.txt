@@ -1,0 +1,12 @@
+E C A
+C B T
+B H I
+H N V
+N W K
+W E L
+A C E
+T B C
+I H B
+V N H
+K W N
+L E W

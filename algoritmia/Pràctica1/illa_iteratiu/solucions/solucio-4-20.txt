@@ -1,0 +1,5 @@
+U A C E
+U C A E
+A E U C
+C A E U
+E U C A

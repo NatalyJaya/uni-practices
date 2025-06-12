@@ -1,0 +1,10 @@
+J T D
+B J C
+C J K
+X B T
+K X P
+S X T
+D K S
+T X K
+G X P
+P X T

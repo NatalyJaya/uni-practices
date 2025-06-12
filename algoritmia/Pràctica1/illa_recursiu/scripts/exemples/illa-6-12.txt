@@ -1,0 +1,6 @@
+L X W
+D L X
+F D X
+W L F
+X L S
+S D L

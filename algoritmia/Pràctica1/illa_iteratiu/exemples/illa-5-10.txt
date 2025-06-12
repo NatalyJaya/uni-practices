@@ -1,0 +1,5 @@
+P D H
+W P M
+M P D
+D P H
+H P M

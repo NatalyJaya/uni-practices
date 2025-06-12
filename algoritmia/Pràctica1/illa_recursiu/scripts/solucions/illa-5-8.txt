@@ -1,0 +1,17 @@
+D B Y R H
+D B Y H R
+D Y B R H
+D Y B H R
+D Y R B H
+B R D Y H
+B R H D Y
+B H R D Y
+Y B R H D
+Y B H R D
+R D B Y H
+R D Y B H
+R H D Y B
+H D Y B R
+H D Y R B
+H Y B R D
+H R D Y B

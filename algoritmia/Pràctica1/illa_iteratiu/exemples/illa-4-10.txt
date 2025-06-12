@@ -1,0 +1,4 @@
+G A P
+A G P
+P G A
+Q A P

@@ -1,0 +1,8 @@
+I P J
+P C Q
+C L H
+L I R
+J P I
+Q C P
+H L C
+R I L

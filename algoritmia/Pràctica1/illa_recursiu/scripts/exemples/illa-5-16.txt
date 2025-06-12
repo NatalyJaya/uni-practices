@@ -1,0 +1,5 @@
+J X F
+D J X
+S J F
+F J S
+X S D
